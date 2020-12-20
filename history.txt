@@ -1,2 +1,3 @@
 This is a second test of gitHub from terminal
+this second line is a test of terminal to gitHub
 
